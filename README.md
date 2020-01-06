@@ -1,1 +1,1 @@
-# restraunt-management
+# restaurant management system
